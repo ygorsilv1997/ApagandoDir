@@ -1,0 +1,7 @@
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\bin\Debug\ApagarDir.dll
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\bin\Debug\ApagarDir.pdb
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\obj\Debug\ApagarDir.csprojAssemblyReference.cache
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\obj\Debug\ApagarDir.csproj.CoreCompileInputs.cache
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\obj\Debug\ApagarDir.dll
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\obj\Debug\ApagarDir.pdb
+C:\Users\PCGaMeR\Desktop\ApagarDir\ApagarDir\bin\Debug\ApagarDir.dll.config
